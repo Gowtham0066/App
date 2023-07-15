@@ -1,1 +1,2 @@
 This is the sample code for learning  Git.
+new line added.
